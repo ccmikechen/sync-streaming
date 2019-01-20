@@ -1,0 +1,46 @@
+textarea:focus, input:focus{
+    outline: none;
+}
+
+.loginWrap {
+	margin: 2px auto 0; 
+	width: 350px; 
+	height: 600px;
+}
+
+.loginWrapInner {
+	margin:20 0 48;
+}
+
+.logo {
+	background-image: url('../images/login.png'); 
+	width: 350px; 
+	height: 200px;
+}
+
+.input-zone {
+	padding: 0 16px 0; 
+	background-color: white; 
+	margin: 0 auto 0;
+}
+
+input {
+	text-align: center;
+	width: 100%; 
+	height: 50px; 
+	border: 0; 
+	font-size: 18px; 
+	font-family: 微軟正黑體;
+}
+
+.submit-btn {
+	background-color: #7A89E6;
+	font-weight: bold;
+	color: white;
+	font-size: 22px;
+}
+
+a {
+	color: #189acb;
+	text-decoration: none;
+}
